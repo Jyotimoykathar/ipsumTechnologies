@@ -23,7 +23,7 @@ This is an imaginary company website build with semantic HTML5, CSS3 and basic J
 ### Links
 
 - Code File URL: [github.com](https://github.com/Jyotimoykathar/ipsumTechnologies)
-- Live Site URL: [netlify.app](https://mymedu.netlify.app/)
+- Live Site URL: [netlify.app](https://ipsumtechnologies.netlify.app/)
 
 ## My process
 
